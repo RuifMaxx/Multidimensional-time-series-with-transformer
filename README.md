@@ -6,3 +6,7 @@ rerfer  https://github.com/oliverguhr/transformer-time-series-prediction
 data:
 
 https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
+
+知乎：
+
+https://zhuanlan.zhihu.com/p/390193679
