@@ -5,9 +5,7 @@ rerfer  https://github.com/oliverguhr/transformer-time-series-prediction
 
 ## data:
 
-https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
-
-I convert .csv file into .xlsx file 
+After downing from https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014, I convert .csv file into .xlsx file 
 
 ![image](https://user-images.githubusercontent.com/75245181/126475468-46964a3a-4413-49df-becb-76adff683f8d.png)
 
