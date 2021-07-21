@@ -11,7 +11,7 @@ This is the .xlsx file
 
 ![image](https://user-images.githubusercontent.com/75245181/126475468-46964a3a-4413-49df-becb-76adff683f8d.png)
 
-And in my code I select 10 dims time series for modeling
+And in my code, I select 10 dims time series for modeling
 
 ## Some result
 
