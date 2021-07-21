@@ -3,7 +3,7 @@ transformer/self-attention for Multidimensional time series forecasting 使用tr
 
 rerfer  https://github.com/oliverguhr/transformer-time-series-prediction
 
-### data:
+## data:
 
 https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
 
@@ -13,7 +13,7 @@ I convert .csv file into .xlsx file
 
 And in my code I select 10 dims time series for modeling
 
-### some result:
+## some result:
 
 ![image](https://user-images.githubusercontent.com/75245181/126475904-1b020a78-d2f9-453f-93e4-5413d44019f8.png)
 
@@ -23,6 +23,6 @@ And in my code I select 10 dims time series for modeling
 
 
 
-### 知乎：
+## 知乎：
 
 https://zhuanlan.zhihu.com/p/390193679
