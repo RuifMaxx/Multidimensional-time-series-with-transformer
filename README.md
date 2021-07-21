@@ -5,7 +5,7 @@ Rerfer to  https://github.com/oliverguhr/transformer-time-series-prediction
 
 ## Dataset
 
-After downing from https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014, I convert it into .xlsx file 
+After downing data from https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014, I convert it into .xlsx file 
 
 This is the .xlsx file 
 
