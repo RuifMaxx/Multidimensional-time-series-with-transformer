@@ -3,6 +3,16 @@ Transformer/self-attention for Multidimensional time series forecasting 使用tr
 
 Rerfer to  https://github.com/oliverguhr/transformer-time-series-prediction
 
+## Requirement
+
+torch 1.7.0
+
+python 3.7
+
+matplotlib 3.4.1
+
+numpy 1.20.2
+
 ## Dataset
 
 After downloading data from https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014, I convert it into .xlsx file 
