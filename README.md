@@ -36,3 +36,7 @@ And in my code, I select 10 dims time series for modeling
 ## 知乎
 
 https://zhuanlan.zhihu.com/p/390193679
+
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RuifMaxx/Multidimensional-time-series-with-transformer&type=Date)](https://star-history.com/#RuifMaxx/Multidimensional-time-series-with-transformer&Date)
