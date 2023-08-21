@@ -19,6 +19,8 @@ After downloading data from https://archive.ics.uci.edu/ml/datasets/ElectricityL
 
 This is the .xlsx file (source: 'https://pan.baidu.com/s/1gyN37cM_ZI2i7OOaiaQ-_g'  password: 4iu4)
 
+You can also download by this link:[https://docs.google.com/spreadsheets/d/1P8nIB2Ugd9AMcGlAPu3lD2yh2eAyJVh3/edit?usp=drive_link&ouid=102877252444231070619&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1P8nIB2Ugd9AMcGlAPu3lD2yh2eAyJVh3/edit?usp=drive_link&ouid=102877252444231070619&rtpof=true&sd=true)
+
 ![image](https://user-images.githubusercontent.com/75245181/126475468-46964a3a-4413-49df-becb-76adff683f8d.png)
 
 And in my code, I select 10 dims time series for modeling
